@@ -7,12 +7,21 @@ This work argues that accessibility compliance is necessary, but not sufficient.
 
 ## Coming soon. 
 01 — The Cost of Friction
+
 02 — Fit: Confidence Without Guesswork
+
 03 — Why Disabled Users Reveal Failure First
+
 04 — Designing for Fit
+
 05 — Flow: Momentum Without Fatigue
+
 06 — Designing for Flow
+
 07 — Fidelity: Trust That Holds Over Time
+
 08 — Designing for Fidelity
+
 09 — Using Fit, Flow, and Fidelity in Product Critique
+
 10 — Craft Is a Responsibility
